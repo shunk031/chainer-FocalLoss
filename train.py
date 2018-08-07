@@ -7,10 +7,6 @@ from chainer import training
 from chainer.training import extensions
 from chainer.training import triggers
 
-# from chainer.datasets import (
-#     get_cifar10,
-#     get_cifar100,
-# )
 from chainer.datasets import get_mnist
 
 from focal_loss import focal_loss
