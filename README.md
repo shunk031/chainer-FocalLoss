@@ -1,3 +1,9 @@
+This repository forked from shunk031/chainer-FocalLoss.
+It has been modified a little.
+
+It calculates cross entropy loss for each element.
+It calculates focus loss for all elements.
+
 # chainer-FocalLoss
 
 This repository contains a [Chainer](https://chainer.org/) implementation for the paper: [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002) (ICCV 2017, Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, Piotr Dollár, Best student paper).
